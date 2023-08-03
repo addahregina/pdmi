@@ -1,0 +1,6 @@
+Notas de aula
+
+Adicionar imagens no projeto
+https://www.appicon.co/#image-sets
+Descompactar o arquivo
+AndroidStudio(AS) - Resource Manager ->  + (add resources to the module) -> Import Drawavbles
